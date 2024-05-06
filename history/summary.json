@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diagxpert.ru.ico",
     "slug": "diagxpert",
     "status": "down",
-    "uptime": "97.99%",
+    "uptime": "96.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.41%",
-    "uptimeMonth": "95.95%",
-    "uptimeYear": "97.99%",
+    "uptimeWeek": "68.16%",
+    "uptimeMonth": "92.67%",
+    "uptimeYear": "96.41%",
     "time": 1086,
     "timeDay": 0,
-    "timeWeek": 1121,
-    "timeMonth": 1078,
+    "timeWeek": 1156,
+    "timeMonth": 1076,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2024-05-05": 81,
+      "2024-05-06": 78,
+      "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 252
     }
@@ -32,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
+    "time": 239,
     "timeDay": 155,
-    "timeWeek": 264,
+    "timeWeek": 259,
     "timeMonth": 261,
-    "timeYear": 240,
+    "timeYear": 239,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 285,
-    "timeWeek": 339,
-    "timeMonth": 315,
-    "timeYear": 298,
+    "time": 299,
+    "timeDay": 336,
+    "timeWeek": 330,
+    "timeMonth": 320,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2024-04-26": 19
     }
