@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/diagxpert.ru.ico",
     "slug": "diagxpert",
     "status": "down",
-    "uptime": "47.48%",
+    "uptime": "47.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "47.48%",
+    "uptimeYear": "47.45%",
     "time": 1086,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2024-07-09": 84,
+      "2024-07-09": 222,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -91,7 +91,7 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,7 +102,9 @@
     "timeWeek": 269,
     "timeMonth": 238,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   },
   {
     "name": "Hacker News",
